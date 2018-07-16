@@ -49,7 +49,7 @@ public class Unit : MonoBehaviour
 	}
 }
 
-public class ()
+public class ExpAttributes()
 {
 	
 }
