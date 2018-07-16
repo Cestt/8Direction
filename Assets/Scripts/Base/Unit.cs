@@ -48,3 +48,8 @@ public class Unit : MonoBehaviour
 	
 	}
 }
+
+public class ()
+{
+	
+}
